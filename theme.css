@@ -3,11 +3,10 @@ body {
   width: 90%;
   max-width: 700px;
   margin: auto;
-  background-color: #EE9797;
+  background-color: #DF5555;
   font-size: 16pt;
   padding-top: 20px;
 }
-
 
 table {
   border: 1px solid #bbb;
@@ -76,15 +75,16 @@ table th {
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 1px;
-  padding-bottom: 100px;
+  padding-bottom: 30px;
+  margin-bottom: 90px;
   background-color: #FAFCFE;
 }
 
 img {
   margin: auto;
-  padding: 20px;
-  max-width: 800px;
-  width: 80%;
+  padding-top: 15px;
+  /*max-width: 800px;*/
+  width: 100%;
 }
 
 td {
