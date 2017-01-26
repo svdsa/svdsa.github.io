@@ -84,7 +84,7 @@ img {
   margin: auto;
   padding: 20px;
   max-width: 800px;
-  width: 80%;  
+  width: 80%;
 }
 
 td {
@@ -93,7 +93,7 @@ td {
 }
 
 li {
-  padding-bottom: 18px;
+  padding-top: 9px;
 }
 
 .navy_text {
