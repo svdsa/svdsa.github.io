@@ -25,6 +25,7 @@ github_username:  svdsa
 
 
 # Build settings
+baseurl: "/blog"
 markdown: kramdown
 theme: minima
 gems:
