@@ -2,7 +2,6 @@
 layout: post
 title:  "General Meeting Survey"
 date:   2017-01-31 09:00:00 -0800
-categories: admin survey
 ---
 
 The SVDSA is ready to start putting together regular General Meetings.
