@@ -8,7 +8,7 @@ The SVDSA has an upcoming branch meeting this weekend.
 
 **When**: Saturday, February 18, at 1 PM.
 
-**Where**:
+**Where**:  
 Mountain View Community Center  
 201 S Rengstorff Ave  
 Mountain View, CA 94040
