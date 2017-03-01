@@ -13,8 +13,8 @@ We're back again, getting together for another general meeting!  On the agenda:
 **When**: Thursday, March 2, 6 PM.
 
 **Where**:  
-All Saints Episcopal Church
-555 Waverley St.
+All Saints Episcopal Church  
+555 Waverley St.  
 Palo Alto, CA 94301
 
 View on [Google Maps][google_maps]
