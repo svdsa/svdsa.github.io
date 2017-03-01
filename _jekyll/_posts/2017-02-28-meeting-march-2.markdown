@@ -10,7 +10,8 @@ We're back again, getting together for another general meeting!  On the agenda:
 * Responding to San Jose's floods
 * Anything you'd like to discuss!
 
-**When**: Thursday, March 2, 6 PM.
+**When**:  
+Thursday, March 2, 6 PM.
 
 **Where**:  
 All Saints Episcopal Church  
