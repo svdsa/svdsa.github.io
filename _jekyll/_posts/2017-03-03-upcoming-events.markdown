@@ -100,5 +100,5 @@ San Jose, CA   95125
 [openhouse]: https://www.google.com/maps/place/1528+S+El+Camino+Real+%23302,+San+Mateo,+CA+94402/@37.5533258,-122.318066,17z/data=!4m5!3m4!1s0x808f9e5e7da2525d:0xe578c637ac12f6ac!8m2!3d37.5531523!4d-122.3161514
 [nowistime]: http://www.nowsthetimemovie.com/attend-a-screening.html
 [lishc]: https://www.google.com/maps/place/Low+Income+Self+Help+Center/@37.3094957,-121.8859737,15z/data=!4m5!3m4!1s0x0:0xa3e1b43a692a9736!8m2!3d37.3094957!4d-121.8859737
-[svdsa_tw]: [https://twitter.com/sv_dsa]
-[svdsa_fb]: [https://www.facebook.com/svdsa/]
+[svdsa_tw]: https://twitter.com/sv_dsa/
+[svdsa_fb]: https://www.facebook.com/svdsa/
