@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Silicon Valley Democratic Socialists of America are a branch of the
+[South Bay Democratic Socialists of America][sbdsa].  We meet biweekly,
+organizing to bring about a democratic economy and a just society: for the bay,
+for California, and for the U.S.A.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Find us elsewhere online at:
+* [Twitter][svdsa_tw]
+* [Facebook][svdsa_fb]
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+And watch this blog for event announcements!  You're more than welcome at any
+of our general meetings or social shindigs.
+
+[sbdsa]: https://www.facebook.com/SouthBayDSA/
+[svdsa_tw]: https://twitter.com/sv_dsa/
+[svdsa_fb]: https://www.facebook.com/svdsa/
