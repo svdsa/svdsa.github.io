@@ -17,8 +17,8 @@ title: Journal of the SVDSA
 # email: TODO: Add your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   News and updates for the peninsula, Bay Area, and beyond.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://svdsa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sv_dsa
 github_username:  svdsa
 
