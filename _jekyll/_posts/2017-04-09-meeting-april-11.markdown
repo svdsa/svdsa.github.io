@@ -15,6 +15,8 @@ Mountain View Community Center
 201 S Rengstorff Ave.  
 Mountain View, CA 94040
 
+We'll be in *Room Two*.
+
 View on [Google Maps][google_maps]
 
 **New to SVDSA?**  Show up at 6 PM!  We're holding a first-timers orientation
