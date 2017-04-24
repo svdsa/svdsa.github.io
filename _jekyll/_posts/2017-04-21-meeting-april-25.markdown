@@ -12,11 +12,11 @@ Our agenda this time will include hearing from our teams focusing on:
 * Our ongoing organization efforts for May Day
 * Our communication best practices, including how this blog should work!
 
-**When**:
-Tuesday, April 25, 2017, 6:30 PM to 8 PM.
+**When**:  
+Tuesday, April 25, 2017, 6:30 PM to 8 PM.  
 (6 PM if you want to hear the first-timer welcome routine!)
 
-**Where**:
+**Where**:  
 Redwood City Downtown Library  
 Community Room  
 1044 Middlefield Road  
