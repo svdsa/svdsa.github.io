@@ -1,11 +1,22 @@
 
 body {
-  width: 95%;
+  width: 90%;
   max-width: 700px;
   margin: auto;
   background-color: #DF5555;
   font-size: 16pt;
   padding-top: 20px;
+}
+
+
+#bodywrapper {
+  font-family: 'Slabo 27px', serif;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 1px;
+  padding-bottom: 30px;
+  margin-bottom: 90px;
+  background-color: #FAFCFE;
 }
 
 table {
@@ -33,6 +44,12 @@ table th {
 @media screen and (max-width: 700px) {
   body {
     background-color: #FAFCFE;
+    width: 90%;
+  }
+
+  #bodywrapper {
+    padding-left: 5px;
+    padding-right: 5px;
   }
 
   table {
@@ -68,16 +85,6 @@ table th {
     text-transform: uppercase;
     font-weight: bold;
   }
-}
-
-#bodywrapper {
-  font-family: 'Slabo 27px', serif;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 1px;
-  padding-bottom: 30px;
-  margin-bottom: 90px;
-  background-color: #FAFCFE;
 }
 
 #cal_div {
