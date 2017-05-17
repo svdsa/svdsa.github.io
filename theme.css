@@ -35,6 +35,10 @@ table th {
     background-color: #FAFCFE;
   }
 
+  #calendar {
+    width: 600px;
+  }
+
   table {
     border: 0;
   }
