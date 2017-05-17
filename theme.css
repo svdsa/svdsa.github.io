@@ -35,10 +35,6 @@ table th {
     background-color: #FAFCFE;
   }
 
-  #calendar {
-    width: 50%;
-  }
-
   table {
     border: 0;
   }
@@ -84,6 +80,17 @@ table th {
   background-color: #FAFCFE;
 }
 
+#cal_div {
+
+position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+
+}
+
+#cal_div iframe {
+
+position: absolute; top:0; left: 0; width: 100%; height: 100%;
+
+}
 img {
   margin: auto;
   padding-top: 15px;
