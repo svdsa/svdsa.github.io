@@ -3,20 +3,20 @@ body {
   width: 90%;
   max-width: 700px;
   margin: auto;
-  background-color: #DF5555;
+  background-color: #EC1F27;
   font-size: 16pt;
   padding-top: 20px;
 }
 
 
 #bodywrapper {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Open Sans', sans-serif;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 1px;
   padding-bottom: 30px;
   margin-bottom: 90px;
-  background-color: #FAFCFE;
+  background-color: #FFFFFF;
 }
 
 table {
@@ -26,19 +26,6 @@ table {
   padding:0;
   border-collapse: collapse;
   border-spacing: 0;
-}
-
-table tr {
-  border: 1px solid #ddd;
-  padding: 5px;
-}
-
-table th, table td {
-  text-align: center;
-}
-
-table th {
-  letter-spacing: 1px;
 }
 
 @media screen and (max-width: 700px) {
@@ -85,24 +72,6 @@ table th {
     text-transform: uppercase;
     font-weight: bold;
   }
-}
-
-#cal_div {
-
-position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
-
-}
-
-#cal_div iframe {
-
-position: absolute; top:0; left: 0; width: 100%; height: 100%;
-
-}
-img {
-  margin: auto;
-  padding-top: 15px;
-  /*max-width: 800px;*/
-  width: 100%;
 }
 
 td {

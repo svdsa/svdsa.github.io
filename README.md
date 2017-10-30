@@ -1,17 +1,5 @@
-# SVDSA Website
+# We've moved!
 
-How to update the blog:
+This repository was used for the old version of the Silicon Valley DSA site.
 
-1) Write your new post, or make the changes you're
-looking to make.
-
-2) From the `_jekyll` directory, run:
-
-```
-jekyll build --destination=../blog
-```
-
-3) Commit your changes to git (locally)
-
-4) Push the locally-commited changes to GitHub
-
+You can find our current site at http://siliconvalleydsa.org
